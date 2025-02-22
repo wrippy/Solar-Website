@@ -1,0 +1,395 @@
+body{
+    font-family: 'Lucida Sans';
+    margin: 0px;
+    overflow-x: hidden;
+}
+.presence, .vision{
+    background-color: white;
+    height: 600px;
+}
+.reach{
+    margin-top: 2%;
+    margin-left: 44%;
+}
+
+.orange, .statsorange, .align, .title, .growth, .cardtitle, .cardtitle2, .cardtitle3{
+    color: darkorange;
+    font-weight: bold;
+
+}
+
+.bold, .bolds2, .bolds3, .close, .name, .home, #discover, .big{
+    font-weight: bold;
+}
+
+.bolds2{
+    margin-left: 2%;
+}
+.presencebox{
+    display: flex;
+    gap: 10%;
+}
+
+.presenceimg, .presenceimg2{
+    width: 500px;
+}
+
+.presenceimg2{
+    height: 99%;
+}
+
+.presenceimg{
+    height: 400px;
+}
+
+ a {
+    color: white;
+ }
+#home{
+    color: white;
+}
+.stats, .statext, .sincebox, .sincetext, .timeline{
+    display: flex;
+}
+
+.stats{
+    margin-top: 5%;
+}
+
+.numbers{
+    display: flex;
+    gap: 100%;
+}
+
+.align{
+    position: relative;
+    bottom: 30px;
+    right: 55px;
+}
+
+.statext{
+    gap: 10px;
+}
+
+.trust, .qualify{
+    background-color: lightgray;
+    height: 500px;
+}
+
+.collab{
+    margin-left: 41%;
+}
+
+.brands{
+    display: flex;
+    height: 30%;
+    margin-left: 15%;
+    gap: 10%;
+}
+
+.sinceimg, .sinceimgs{
+    height: 300px;
+    width: 400px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.sincebox{
+    margin-top: 3%;
+    margin-left: 5%;
+    gap: 3%;
+}
+
+.sinceimgs{
+    margin-top: 20%;
+}
+
+.sincetext{
+    flex-direction: column;
+    margin-top: 4%;
+    margin-left: 5%;
+}
+
+.title{
+    font-size: xx-large;
+    position: relative;
+    bottom: 20%;
+}
+
+.close{
+    position: relative;
+    bottom: 38%;
+}
+
+.lorem{
+    position: relative;
+    bottom: 40%;
+}
+
+.when{
+    color: lightgray;
+    font-size: 120px;
+    font-weight: bold;
+}
+
+.since{
+    background-color: white;
+    height: 800px;
+}
+
+.whenbox{
+    display: flex;
+    gap: 40%;
+    margin-left: 10%;
+}
+
+.first{
+    height: 700px;
+    background-color: slategray;
+    color: white;
+
+}
+
+.nav{
+    display: flex;
+    background-color: slategray;
+    gap: 3%;
+}
+
+.name{
+    margin-left: 5%;
+}
+
+.home{
+    margin-left: 40%;
+
+}
+
+.discover, .discovers{
+    background-color: darkorange;
+    width: 120px;
+    height: 40px;
+    margin-top: 10px;
+    margin-right: 2%;
+    border: 0px;
+}
+
+#discover{
+    text-align: center;
+    position: relative;
+    bottom: 15%;
+    color: white;
+}
+
+button:hover{
+    scale: 1.2;
+}
+
+.solution{
+    display: flex;
+    flex-direction: column;
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+.big, .bigs{
+    font-size: xx-large;
+}
+
+.bigs{
+    position: relative;
+    bottom: 100px;
+    margin-left: 11px;
+}
+
+.discovers{
+    width: 10%;
+    height: 60px;
+}
+
+.firstimg{
+    position: relative;
+    bottom: 550px;
+    margin-left: 903px;
+    
+}
+
+.firstimgs{
+    width: 1000px;
+    height: 648px;
+    
+}
+
+.innovate, .journey{
+    display: flex;
+    flex-direction: column;
+    margin-left: 42%;
+}
+
+.growth{
+    margin-top: 5%;
+
+}
+
+#business{
+    position: relative;
+    right: 20%;
+    bottom: 45px;
+}
+
+.card, .card2{
+    flex-direction: column;
+    position: relative;
+    bottom: 60px;
+    display: flex;
+    
+}
+
+.cardimg{
+    height: 300px;
+    width: 350px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.cardtextbox{
+    background-color: white;
+    width: 350px;
+    height: 50%;
+    position: relative;
+    bottom: 10%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+
+}
+
+.qualify{
+    height: 800px;
+}
+
+.cardtitle, .cardtitle2, .cardtitle3{
+    position: relative;
+    top: 20%;
+    margin-left: 24%;
+}
+
+#cardtext{
+    position: relative;
+    top: 20%;
+    margin-left: 20%;
+}
+
+.know{
+    background-color: darkorange;
+    width: 200px;
+    height: 40px;
+    border: 0px;
+    position: relative;
+    top: 25px;
+    margin-left: 20%;
+}
+
+#know{
+    color: white;
+    position: relative;
+    bottom: 15%;
+}
+
+.stats3{
+    display: flex;
+    gap: 20px;
+    background-color: lightgray;
+    justify-content: space-around;
+
+}
+
+.card2{
+    position: relative;
+    top: 10px;
+}
+
+.cardtitle2{
+    margin-left: 20%;
+}
+
+.cardtitle3{
+    margin-left: 28%;
+}
+
+#journey{
+    position: relative;
+    bottom: 50px;
+    right: 1%;
+    font-size: larger;
+}
+
+.journey{
+    margin-left: 44%;
+}
+
+.vision{
+    height: 400px;
+}
+
+.timeline, .timetext{
+    margin-left: 8%;
+    flex-direction: column;
+   gap: 140px 
+}
+
+.circle{
+    background-color: darkorange;
+    border-radius: 50%;
+    width: 5%;
+    color: white;
+    text-align: center;
+    z-index: 1;
+}
+
+.line{
+    background-color: darkorange;
+    width: 15px;
+    height: 450px;
+    color: darkorange;
+    position: relative;
+    bottom: 600px;
+    left: 35px;
+    z-index: 0;
+}
+
+.timetitle{
+    font-weight: bold;
+}
+
+.timetext{
+    gap: 110px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    bottom: 25%;
+    left: 8%;
+}
+.small{
+    font-size: small;
+}
+
+.timelineimg{
+    position: relative;
+    bottom: 1150px;
+    left: 1200px;
+    flex-direction: column;
+    display: flex;
+}
+
+.cardimg2, .cardimg3{
+    height: 200px;
+    width: 250px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.cardimg3{
+    margin-left: 20%;
+}
+
+#discovers{
+    text-align: center;
+    color: white;
+}
